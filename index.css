@@ -1,0 +1,18 @@
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  button {
+    color: #f3bf2f;
+    padding: 10px;
+    font-size: 20px;
+  }
+  
+  #value {
+    font-size: 24px;
+    width: 50px;
+    text-align: center;
+  }
